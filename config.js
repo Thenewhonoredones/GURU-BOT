@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349035269262', 'Tim-Sensei', true],
+  ['2349035269262', '🆃🅸🅼 🆂🅴🅽🆂🅴🅸', true],
   ['2349044156415', 'Timothy', true], 
-  [''] 
+  ['2349035391852', 'Timo', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '2349044156415', '2349035269262']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['2349035269262','2349044156415','2349035391852'] 
+global.prems = ['2349035391852', '2349044156415', '2349035269262']
+global.allowed = ['2349035391852', '2349044156415', '2349035269262']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'TIMOFC'
+global.botname = '🅰🆂🆃🅰'
 global.premium = 'true'
 global.packname = 'Timo' 
 global.author = 'Timo' 
-global.menuvid = 'https://i.imgur.com/dUoUXRN.mp4'
+global.menuvid = 'https://i.imgur.com/pb1WZy1.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/IHOauy3azL7E2218U2cuip'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
@@ -72,7 +72,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' 
+global.maxwarn = '4' 
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
