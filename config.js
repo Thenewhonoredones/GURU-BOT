@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349035269262', '🅰🆂🆃🅰', true],
-  ['2349044156415', '𝘾𝞖𝞗𝙎𝞗 𝙎𝞢𝞜𝙎𝞢𝞘', true], 
-  ['2349035391852', '🆃🅸🅼🅾️🆃🅷🆈', true],
+  ['2349035269262', '♛彡 Äñgêl 彡♛', true],
+  ['2349044156415', 'x____тιм ѕєηραι____x', true], 
+  ['2349035391852', '★彡[ тιмσтну ]彡★', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -50,13 +50,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '🅰🆂🆃🅰'
+global.botname = '♛彡 Äñgêl 彡♛'
 global.premium = 'true'
-global.packname = 'Timo' 
-global.author = 'Timo' 
-global.menuvid = 'https://telegra.ph/file/86839a16c239a5be006c0.jpg'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/IHOauy3azL7E2218U2cuip'
+global.packname = 'Äñgêl' 
+global.author = '♛ Äñgêl ♛' 
+global.menuvid = 'https://i.imgur.com/CFn3L8p.mp4'
+global.igfg = '▢ Follow on WhatsApp\nhttps://chat.whatsapp.com/KbDoZ8oZEhzC2yejWgZ67m\n' 
+global.dygp = 'https://chat.whatsapp.com/KbDoZ8oZEhzC2yejWgZ67m'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _♛彡 Äñgêl 彡♛_*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
