@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349035269262', '♛彡 Äñgêl 彡♛', true],
-  ['2349044156415', 'x____тιм ѕєηραι____x', true], 
+  ['2349035269262', 'x____тιм ѕєηραι____x', true],
+  ['2349044156415', '♛彡 Äñgêl 彡♛', true], 
   ['2349035391852', '★彡[ тιмσтну ]彡★', true],
 ] //Number of owners
 
@@ -56,7 +56,7 @@ global.packname = 'Äñgêl'
 global.author = '♛ Äñgêl ♛' 
 global.menuvid = 'https://i.imgur.com/CFn3L8p.mp4'
 global.igfg = '▢ Follow on WhatsApp\nhttps://chat.whatsapp.com/KbDoZ8oZEhzC2yejWgZ67m\n' 
-global.dygp = 'https://chat.whatsapp.com/KbDoZ8oZEhzC2yejWgZ67m'
+global.dygp = 'https://Wa.me/2349035269262?text=Oi👋+Tim+🙂'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _♛彡 Äñgêl 彡♛_*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _♛彡 Äñgêl 彡♛ Is Loading_*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
