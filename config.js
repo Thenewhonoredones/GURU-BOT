@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349035269262', '𒆜𝔑𝔢𝔤𝔯𝔬𝔩𝔦𝔱𝔢𒆜', true],
-  ['2349044156415', '𒆜AñGêL𒆜', true], 
-  ['2349035391852', '𒆜𝑻𝒊𝒎𝑻𝒉𝒆𝑵𝒆𝒈𝒓𝒐𒆜', true],
+  ['2349035269262', '₦₳₲₳₮Ø', true],
+  ['2349044156415', 'AñGêL', true], 
+  ['2349017883535', '乇ㄚ乇卩卂ㄒ匚卄', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2349035269262','2349044156415','2349035391852'] 
-global.prems = ['2349035391852', '2349044156415', '2349035269262']
-global.allowed = ['2349035391852', '2349044156415', '2349035269262']
+global.mods = ['2349035269262','2349044156415','2349017883535'] 
+global.prems = ['2349017883535', '2349044156415', '2349035269262']
+global.allowed = ['2349017883535', '2349044156415', '2349035269262']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𒆜AñGêL𒆜'
+global.botname = 'AñGêL'
 global.premium = 'true'
 global.packname = 'Äñgêl' 
-global.author = '𒆜AñGêL𒆜' 
+global.author = 'AñGêL' 
 global.menuvid = 'https://i.imgur.com/sCtZ4Y2.mp4'
 global.igfg = '▢ Follow on WhatsApp\nhttps://Wa.me/2349035269262?text=Oi+𒆜𝔑𝔢𝔤𝔯𝔬𝔩𝔦𝔱𝔢𒆜\n' 
 global.dygp = 'https://Wa.me/2349035269262?text=Oi+𒆜𝔑𝔢𝔤𝔯𝔬𝔩𝔦𝔱𝔢𒆜'
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _𒆜AñGêL𒆜 Is Loading_*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _AñGêL Is Loading_*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
